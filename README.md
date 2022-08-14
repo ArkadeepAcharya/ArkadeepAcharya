@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArkadeepAcharya
 - 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently learning imgage classfication and NLP
+- 🌱 I’m currently learning image classfication and NLP
 - 💞️ I’m looking to collaborate on the above domains
 - 📫 You can mail contact me via mail on acharyarka17@gmail.com
 
